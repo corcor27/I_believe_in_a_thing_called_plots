@@ -1,2 +1,0 @@
-# Ligo-
-PyCBC for Ligo
